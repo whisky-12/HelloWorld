@@ -1,5 +1,5 @@
 #include <iostream>
-using namesapce std;
+using namespace std;
 int main(){
     // 测试部分 （测试者可依次添加输出与注释）
     cout<<"Hello World"<<endl; // example - 2022/11/03
